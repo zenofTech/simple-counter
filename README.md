@@ -4,7 +4,7 @@ Simple view counter for websites and Github READMEs.
 
 ## Demo
 
-<img title="repo views" src="https://simple-counter.infinityfreeapp.com/?i=1">
+<img title="repo views" src="http://simple-counter.infinityfreeapp.com/">
 
 
 ## Deploy
